@@ -1,2 +1,4 @@
 # holbertonschool-zero_day
-Vagrant exercise
+
+First exercise at Holberton day zero.  To familiarize with vagrant
+
